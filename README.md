@@ -1,13 +1,13 @@
 ### Hi there 🤝, I'm Sachin Soni
 
-I'm a pre-final Year Computer Science Student at Chandigarh University
+I'm a Final Year Computer Science Student at Chandigarh University
 ---
 <a href="https://github.com/scripty07"><img align='right' src="https://img.cloudygif.com/full/b79a3eec2a0c1230.gif" width="340" height="230"> </a>
 
- 👉 Full Stack Web developer, MERN Stack<br />
+ 👉 React TS developer <br />
  👉 Competitive programmer <br />
- 👉 2021 Goals: Learn MERN Stack and build projecs. <br/>
- 👉 Looking for: Partner for Pair-Programming. <br/>
+ 👉 2022 Goals: Learn React TS. <br/>
+ 👉 Looking for: Guidance for clean code. <br/>
 
 
 
@@ -15,10 +15,9 @@ Languages and Tools Proficiency:
 ---
 
 -  <b>Languages</b>           : C, C++, Java, JavaScript, Python <br /> <br /> 
--  <b>Web development</b>     : HTML, CSS, Bootstrap, Node Js, React Js, Express Js<br /> <br />
--  <b>Databases</b>           : MongoDB           <br /> <br />
--  <b>Tools</b>               : Git/Github, VsCode, Postman, Firebase, Netlify <br /> <br />
--  <b>Currently Learning</b>  : MERN Stack
+-  <b>Web development</b>     : HTML, SCSS, MUI, React TS <br /> <br />
+-  <b>Tools</b>               : Git/Github, VsCode, Netlify <br /> <br />
+-  <b>Currently Learning</b>  : React TS
 
 ### View me on:
 
