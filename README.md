@@ -2,7 +2,7 @@
 
 I'm a Final Year Computer Science Student at Chandigarh University
 ---
-<a href="https://github.com/scripty07"><img align='right' src="https://img.cloudygif.com/full/b79a3eec2a0c1230.gif" width="340" height="230"> </a>
+<a href="https://github.com/scripty07"><img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" height="230"> </a>
 
  👉 React TS developer <br />
  👉 Competitive programmer <br />
