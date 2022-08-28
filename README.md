@@ -1,22 +1,21 @@
 ### Hi there 🤝, I'm Sachin Soni
 
-I'm a Final Year Computer Science Student at Chandigarh University
+I'm a Frontend Engineer at Josh Technology Group
 ---
 <a href="https://github.com/scripty07"><img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" height="230"> </a>
 
  👉 React TS developer <br />
- 👉 Competitive programmer <br />
- 👉 2022 Goals: Learn React TS. <br/>
- 👉 Looking for: Guidance for clean code. <br/>
-
+ 👉 Flutter Developer <br />
+ 
 
 
 Languages and Tools Proficiency:
 ---
 
--  <b>Languages</b>           : C, C++, Java, JavaScript, Python <br /> <br /> 
--  <b>Web development</b>     : HTML, SCSS, MUI, React TS <br /> <br />
--  <b>Tools</b>               : Git/Github, VsCode, Netlify <br /> <br />
+-  <b>Languages</b>           : C, C++, Java, JavaScript, Python, Dart <br />
+-  <b>Web development</b>     : HTML, SCSS, MUI, React TS <br />
+-  <b>Mobile development</b>  : Flutter <br />
+-  <b>Tools</b>               : Git/Github, VsCode, Netlify, Android Studio <br />
 -  <b>Currently Learning</b>  : React TS
 
 ### View me on:
