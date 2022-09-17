@@ -21,7 +21,7 @@ Languages and Tools Proficiency:
 ### View me on:
 
 [<img  align="left" alt="In" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" />][linkedin]
-[<img align="left" alt="Tw" width="32px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/450px-Twitter_Bird.svg.png" />][twitter]
+[<img align="left" alt="Tw" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
 [<img align="left" alt="HR" width="32px" src="https://amit839.github.io/resources/css/images/achievements/hackerrank-logo.jpg" />][hackerrank]
 [<img align="left" alt="IG" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 <br />
