@@ -12,8 +12,8 @@ I'm a Frontend Engineer at Josh Technology Group
 Languages and Tools Proficiency:
 ---
 
--  <b>Languages</b>           : C, C++, Java, JavaScript, Python, Dart <br />
--  <b>Web development</b>     : HTML, SCSS, MUI, React TS <br />
+-  <b>Languages</b>           : C, C++, Java, JavaScript, TypeScript, Python, Dart <br />
+-  <b>Web development</b>     : HTML, SCSS, MUI, React, Next <br />
 -  <b>Mobile development</b>  : Flutter <br />
 -  <b>Tools</b>               : Git/Github, VsCode, Netlify, Android Studio <br />
 -  <b>Currently Learning</b>  : React TS
